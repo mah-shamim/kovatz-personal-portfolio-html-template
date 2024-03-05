@@ -3,7 +3,7 @@
 		$name = $_POST['name'];
 		$email = $_POST['email'];
 		$message = $_POST['message'];
-		$from = 'Parax Contact Form'; 
+		$from = 'KOVATZ Contact Form';
 		$to = 'example@gmail.com'; 
 		$subject = $_POST['subject']; 
 		
